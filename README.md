@@ -1,6 +1,6 @@
-# MosAIG: Multicultural Text to Image Generation
+# When Cultures Meet: Multicultural Text-to-Image Generation
 
-This repository contains the dataset and code for our paper: Multi-Agent Multimodal Models for Multi-Cultural Text to Image Generation
+This repository contains the dataset and code for our paper: When Cultures Meet: Multicultural Text-to-Image Generation
 
 ![Example instance](images/overview2.png)
 
