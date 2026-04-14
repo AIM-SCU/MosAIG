@@ -1,4 +1,4 @@
-# MosAIG: Multicultural Text-to-Image Generation
+# When2Meet: Multicultural Text-to-Image Generation
 
 This repository contains the code and data for our paper:
 
