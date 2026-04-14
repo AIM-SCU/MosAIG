@@ -132,7 +132,7 @@ Install the required packages:
 
 If you use this work, please cite:
 
-    @inproceedings{bhalerao2026mosaic,
+    @inproceedings{bhalerao2026mosaig,
       title     = {When Cultures Meet: Multicultural Text-to-Image Generation},
       author    = {Bhalerao, Parth and Ignat, Oana and Trinh, Brian and Yalamarty, Mounika},
       booktitle = {Findings of the Association for Computational Linguistics: ACL 2026},
