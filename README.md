@@ -2,7 +2,7 @@
 
 This repository contains the code and data for our paper:
 
-> **"When Cultures Meet: Multicultural Text-to-Image Generation"**
+> **[When Cultures Meet: Multicultural Text-to-Image Generation](https://arxiv.org/pdf/2502.15972)**
 > Parth Bhalerao, Oana Ignat, Brian Trinh, Mounika Yalamarty
 > *ACL Findings 2026*
 
@@ -143,6 +143,6 @@ If you use this work, please cite:
 
 ## Links
 
-- 📄 **Paper**: ACL Findings 2026
+- 📄 **Paper**: [ACL Findings 2026](https://arxiv.org/pdf/2502.15972)
 - 🤗 **Dataset**: [HuggingFace](https://huggingface.co/datasets/AIM-SCU/Multi-Cultural-Single-Multi-Agent-Images)
 - 💻 **Code**: [GitHub](https://github.com/AIM-SCU/MosAIG)
